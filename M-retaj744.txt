@@ -1,7 +1,0 @@
-Name: retaj bader Al-harbi
-Age: 25
-Email Address: retaj.har22@hotmail.com 
-Mobile No.: 0542918374 
-
-salary: 16000 SAR
-work id: 44403744
