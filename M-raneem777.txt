@@ -1,7 +1,0 @@
-Name: raneem hassan bokhari 
-Age: 31
-Email Address: ran.bkh@hotmail.com 
-Mobile No.: 0583742916 
-
-salary: 15000 SAR
-work id: 44403777
