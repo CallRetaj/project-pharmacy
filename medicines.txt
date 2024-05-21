@@ -1,0 +1,16 @@
+1 Antipyretic 49RS  
+2 Residence 78RS  
+3 Anti-inflammatory 95RS  
+4 Cough medicine 59RS  
+5 Antipyretic for children 39RS  
+6 Nausea medication 45RS  
+7 Vitamins 70RS  
+8 Fever medicine 52RS  
+9 Diabetes medication 129RS  
+10 Blood pressure medication 110RS  
+11 Sleep medicine 67RS  
+12 Tonsillitis medication 89RS  
+13 Asthma medicine 99RS  
+14 Stomach medicine 82RS  
+15 Allergy medicine 55RS  
+16 Pain reliever 72RS
